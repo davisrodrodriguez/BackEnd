@@ -14,7 +14,6 @@ com\portofolio\david\Dto\dtoProyecto.class
 com\portofolio\david\Repository\IPersonaRepository.class
 com\portofolio\david\Repository\REducacion.class
 com\portofolio\david\Security\jwt\JwtEntryPoint.class
-com\portofolio\david\WebConfig.class
 com\portofolio\david\Service\Shys.class
 com\portofolio\david\Security\Service\UsuarioService.class
 com\portofolio\david\Security\Entity\Usuario.class
